@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.4.1
+python:alpine3.19
