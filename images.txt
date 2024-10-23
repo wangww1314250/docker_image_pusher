@@ -1,2 +1,3 @@
 python:alpine3.19
 nacos/nacos-server:latest
+greenbone/gvmd:24
