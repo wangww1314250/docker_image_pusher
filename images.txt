@@ -1,1 +1,1 @@
-redis:6.2.17
+gitlab/gitlab-ce:16.1.8-ce.0
