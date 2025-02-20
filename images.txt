@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:16.1.8-ce.0
+mysql:8.0.41
