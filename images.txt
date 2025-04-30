@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:22.10.7.13
+bitnami/zookeeper:3.7.0
