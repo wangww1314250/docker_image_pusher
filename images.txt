@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-alpine
+nacos-server:2.2.3
