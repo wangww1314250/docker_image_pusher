@@ -1,1 +1,1 @@
-keking/kkfileview:latest
+elasticsearch:7.9.3
