@@ -1,1 +1,1 @@
-eclipse-temurin:21-jdk-jammy
+keking/kkfileview:4.4.0
