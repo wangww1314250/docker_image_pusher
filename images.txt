@@ -1,1 +1,1 @@
-elasticsearch:7.9.3
+rocketmqinc/rocketmq:4.0.0-incubating
