@@ -1,1 +1,1 @@
-rocketmqinc/rocketmq:4.0.0-incubating
+nginx:1.30.1
