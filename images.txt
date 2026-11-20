@@ -1,1 +1,1 @@
-influxdb:1.8.10
+nginx:1.30.7
