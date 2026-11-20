@@ -1,1 +1,1 @@
-httpd:latest
+influxdb:1.8.10
